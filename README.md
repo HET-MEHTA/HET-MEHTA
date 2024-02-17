@@ -1,10 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Monospace&color=ea7901&size=50&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+My+Name+is+Het.;I+Am+a+CE+Student.;Feel+Free+to+Get+in+Touch.+%F0%9F%98%84;Nice+to+Meet+You!!!...)](https://github.com/HET_MEHTA)
-
-
 <hr>
-<hr>
-
-
 # 👋 Hello! I'm Het Mehta
 
 I'm a passionate programmer on a journey through the world of coding. Welcome to my GitHub profile, where I share my projects and experiences.
