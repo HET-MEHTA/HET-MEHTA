@@ -22,7 +22,7 @@ You can connect with me on [Instagram]((https://www.instagram.com/im_mehtahet?ig
 dev-maitrey13/dev-maitrey13 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# i am Het Mehta<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
+# I Am Het Mehta<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
 <hr>
 
 
